@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @xensio
-- 👀 I’m interested in electronics, Programming, urban exploration, dirt jumping, motorbikes, parkour.
-- 🌱 I’m currently studying in IVY class.
-- 📫 How to reach me? Discord: xensioszef
-
+siema jestem xensio,  interesuje sie elektroniką i drukiem 3D tu bede wrzucac mojej bardziej lub mniej przydatne projekty jak mi sie zachce :/
